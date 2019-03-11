@@ -10,3 +10,8 @@ We would like to predict the attrition rate using Classification method. We have
 The Attrition rate we found using the dataset containing 1471 records is as follows:
 ‘No’ Attrition -1233 – 83.8%
 ‘Yes’ Attrition- 237– 16.1%
+
+Please find the following files:
+data set as 'Data Set.xls'
+Project Documentation as 'Group 3 Final Report Updated 1.pdf'
+Project power point presentation as 'Microsoft PowerPoint Presentation SAS Project Updated 1.pptx'
