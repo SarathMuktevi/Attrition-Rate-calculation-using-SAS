@@ -12,6 +12,6 @@ The Attrition rate we found using the dataset containing 1471 records is as foll
 ‘Yes’ Attrition- 237– 16.1%
 
 Please find the following files:
-data set as 'Data Set.xls'
-Project Documentation as 'Group 3 Final Report Updated 1.pdf'
-Project power point presentation as 'Microsoft PowerPoint Presentation SAS Project Updated 1.pptx'
+data set as 'Attrition Rate Calculation Data Set.xls'
+Project Documentation as 'Attrition Rate Calculation using SAS Final Report.pdf'
+Project power point presentation as 'Attrition Rate Calculation using SAS.pptx'
